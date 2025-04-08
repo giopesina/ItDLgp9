@@ -8,9 +8,9 @@ import numpy as np
 
 # Hyperparameters
 latent_dim = 100
-batch_size = 64
-lr = 0.0002
-num_epochs = 100
+batch_size = 16
+lr = 0.001
+num_epochs = 10
 image_size = 128
 
 from torchvision.datasets import ImageFolder
