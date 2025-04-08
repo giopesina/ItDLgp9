@@ -1,0 +1,8 @@
+matplotlib
+Pillow
+torch
+torchvision
+#matplotlib==3.5.2
+#Pillow==9.2.0
+#torch==1.8.1
+#torchvision==0.9.1
