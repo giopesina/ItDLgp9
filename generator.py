@@ -4,5 +4,6 @@ generators = Generators()
 
 # generate 8 samples with model 8 (00008_C-DCGAN_MMG_MASSES). 
 # Also, auto-install required model dependencies.
-generators.generate(model_id=21, num_samples=8, install_dependencies=True)
+generators.generate(model_id=2, num_samples=8, install_dependencies=True)
+generators.generate(model_id=5, num_samples=8, install_dependencies=True)
 
